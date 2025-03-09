@@ -1,0 +1,41 @@
+Results for N=1:
+READ statistics:
+Average: 295.913 usec
+Median: 306 usec
+Min: 10 usec
+Max: 572 usec
+
+WRITE statistics:
+Average: 282.185 usec
+Median: 233 usec
+Min: 26 usec
+Max: 577 usec
+------------------------
+
+Results for N=5:
+READ statistics:
+Average: 37.4348 usec
+Median: 20 usec
+Min: 4 usec
+Max: 122 usec
+
+WRITE statistics:
+Average: 28.1852 usec
+Median: 20 usec
+Min: 1 usec
+Max: 73 usec
+------------------------
+
+Results for N=10:
+READ statistics:
+Average: 29.913 usec
+Median: 13 usec
+Min: 2 usec
+Max: 112 usec
+
+WRITE statistics:
+Average: 16.7037 usec
+Median: 10 usec
+Min: 1 usec
+Max: 57 usec
+------------------------
